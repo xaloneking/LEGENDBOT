@@ -9,28 +9,28 @@
 </h6>
 
 <p align="center">
-<a href="https://github.com/LEGENDXOS/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/LEGENDXOS/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/LEGENDXOS/LEGENDBOT?style=flat&logo=github" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/LEGENDXOS/LEGENDBOT?label=Forks&logo=github" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/LEGENDXOS/LEGENDBOT?color=success" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/LEGENDXOS/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT" alt="GitHub closed issues"> <img src="https://img.shields.io/github/issues-closed-raw/xaloneking/LEGENDBOT?style=flat&logo=github&color=success" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT/graphs/contributors" alt="GitHub contributors"> <img src="https://img.shields.io/github/contributors/xaloneking/LEGENDBOT?style=flat&logo=github" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT/network/members" alt="GitHub forks"> <img src="https://img.shields.io/github/forks/xaloneking/LEGENDBOT?label=Forks&logo=github" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT" alt="GitHub closed pull requests"> <img src="https://img.shields.io/github/issues-pr-closed-raw/xaloneking/LEGENDBOT?color=success" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT" alt="GitHub issues"> <img src="https://img.shields.io/github/issues-raw/xaloneking/LEGENDBOT?style=flat&logo=github&color=yellow" /> </a>
 </p>
 <p align="center">
 <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat&logo=python&color=blue" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGENDXOS/LEGENDBOT" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT" alt="Docker!"> <img src="https://aleen42.github.io/badges/src/docker.svg" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT" alt="GitHub repo size"> <img src="https://img.shields.io/github/repo-size/LEGENDXOS/LEGENDBOT" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT/blob/master/LICENSE" alt="GPLv3 license"> <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" /> </a>
 </p>
 <p align="center">
 <a href="https://t.me/Legend_Userbot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
-<a href="https://github.com/LEGENDXOS/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
+<a href="https://github.com/xaloneking/LEGENDBOT/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" /> </a>
 <a href="https://makeapullrequest.com" alt="PRs Welcome"> <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" /> </a>
 </p>
 
 ------
 ## Status Of Bot 
 <p align="left">
-    <a href="https://github.com/LEGENDXOS/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/LEGENDXOS/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/LEGENDXOS/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/LEGENDXOS/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/LEGENDXOS/LEGENDBOT"></a><p align="left"><a href="https://github.com/LEGENDXOS/LEGENDBOT?"></a>
+    <a href="https://github.com/xaaloneking/LEGENDBOT/network/members"><img src="https://img.shields.io/github/forks/xaloneking/LEGENDBOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/xaloneking/LEGENDBOT/stargazers"><img src="https://img.shields.io/github/stars/xaloneking/LEGENDBOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/xaloneking/LEGENDBOT"></a><p align="left"><a href="https://github.com/xaloneking/LEGENDBOT?"></a>
 
 ------
 ## Telegram 🏪
@@ -53,13 +53,13 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDXOS/LEGENDBOT)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xaloneking/LEGENDBOT)
 
 ## Deploy Locally
 
 - Clone the repo. 
 
-`git clone https://github.com/LEGENDXOS/LEGENDUSERBOT.git`
+`git clone https://github.com/xaloneking/LEGENDUSERBOT.git`
 - Open Cloned Folder.
 
 `cd LEGENDUSERBOT`
