@@ -10,8 +10,8 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGENDXOS/LEGENDBOT/",
-  "website": "https://github.com/LEGENDXOS/LEGENDBOT/",
+  "repository": "https://github.com/xaloneking/LEGENDBOT/",
+  "website": "https://github.com/xaloneking/LEGENDBOT/",
   "success_url": "https://t.me/AdityaServer",
   "env": {
     "ENV": {
